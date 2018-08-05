@@ -16,7 +16,7 @@
 )
 
 #for Grammar
-(  // Guidelines / Rules
+(  // Guidelines / Rules )
 
 // class Player
 // class PlayerController
@@ -25,5 +25,6 @@
 // int lives
 // int livesMax
 
-// void Jump ()
-}   // void Jumpstarted ())
+// void Jump ( ) 
+// void Jumpstarted ( )
+
